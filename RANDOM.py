@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("okh").Main()
+    __import__("RANDOM").Main()
 except Exception as e:
     exit(str(e))
